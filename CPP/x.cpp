@@ -6,3 +6,4 @@ cout<<"Input";
 int x=10;
 int* p;
 int base=10;
+}
