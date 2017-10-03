@@ -14,4 +14,5 @@ private:
     tail = Xs;
   }
   
-}
+  
+};
