@@ -20,5 +20,12 @@ k=-1;
 cs=null;
 }
 
+int hd;
+int base;
+IntList gs;
+int ttop;
+int k;
+int * xs;
+int * cs;
 
 }
