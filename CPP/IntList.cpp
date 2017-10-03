@@ -13,6 +13,4 @@ private:
     head = X;
     tail = Xs;
   }
-  
-  
 };
