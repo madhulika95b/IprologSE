@@ -11,6 +11,14 @@ this->ttop=ttop;
 this->k=k;
 this->cs=cs;
 }
+Spine(int hd,int ttop){
+this->hd=hd;
+base=0;
+gs=IntList.empty;
+this->ttop = ttop;
+k=-1;
+cs=null;
+}
 
 
 }
