@@ -8,7 +8,7 @@ int base;
 int neck;
 int* xs;
 
-//comments added
+//comments added..
 int Clause(const int len, int* hgs,const int base, const int neck, int* xs){
 this->hgs = hgs;
 this->base = base;
